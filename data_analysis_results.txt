@@ -1,0 +1,26 @@
+Tender Details Analysis
+
+First Few Rows:
+                                        Tender Title  ...      Bid Opening Date
+0  1. Milling and BC overlay of Zirakpur to Rajpu...  ...  12-Sep-2023 11:30 AM
+1                     2. Supply of Rubber Components  ...  01-Sep-2023 04:30 PM
+2  3. Selection of Backend partner for Supply, In...  ...  01-Sep-2023 01:00 PM
+3     4. EOI for Filament Recycling Machine Extruder  ...  15-Sep-2023 03:30 PM
+4                        5. Supply of Laundry System  ...  04-Oct-2023 03:00 PM
+
+[5 rows x 4 columns]
+
+Basic Statistics:
+                                             Tender Title  ...      Bid Opening Date
+count                                                  10  ...                    10
+unique                                                 10  ...                    10
+top     1. Milling and BC overlay of Zirakpur to Rajpu...  ...  12-Sep-2023 11:30 AM
+freq                                                    1  ...                     1
+
+[4 rows x 4 columns]
+
+Number of tenders: 10
+
+Tender with earliest closing date: 7. Shifting and ITC of 62.5 KVA E/A set  from TE Parsipur to TE. Beniabagh, Varanasi
+
+Average bid opening time (hours): 28.90
